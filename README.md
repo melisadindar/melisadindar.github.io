@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melisa Dindar</h1>
+<h1 align="right" align="center">Hi 👋, I'm Melisa Dindar</h1>
 - 🌱 I’m currently learning C, C++, HTML/CSS, PHP, SQL
 
 - 📫 How to reach me **melisadindarrr@gmail.com**
