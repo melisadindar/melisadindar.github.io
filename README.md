@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melisa Dindar</h1>
-- 🌱 I’m currently learning C,C++
+- 🌱 I’m currently learning C,C++,HTML/CSS,JS,SQL
 
 - 📫 How to reach me **melisadindarrr@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif">
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
