@@ -57,13 +57,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-</div>
-
-###
