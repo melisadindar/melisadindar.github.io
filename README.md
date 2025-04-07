@@ -1,5 +1,9 @@
+<h1 align="center">hey I'm Melisa..</h1>
+
+###
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/aCWoRHhtFdyRVeQais/giphy.gif?cid=ecf05e47akqfpr7ctybqr6ddc1mpys9so2i1fpcvj8ix7tj5&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tleHJzY2JmdThxbjIyaDUxdXJjNnZ1eGxqNGZoN2g3ajl3cjRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif"  />
 </div>
 
 ###
@@ -15,11 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩🏻‍💻 About Me</h3>
 
 ###
 
