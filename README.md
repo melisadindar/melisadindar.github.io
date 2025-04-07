@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩🏻‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -57,3 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
+###
+
+<div align="left">
+</div>
+
+###
