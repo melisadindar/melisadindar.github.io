@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🌱 Currently diving into Data Science with Python, Pandas, Numpy and Matplotlib.<br>📫 How to reach me melisadindarrr@gmail.com</p>
+<p align="left">🌱 Currently diving into Data Science with Python, Pandas, Numpy and Matplotlib.<br>📫 How to reach me: melisadindarrr@gmail.com</p>
 
 ###
 
