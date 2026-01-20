@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
     <img width="12" />
-  <img src="[https://commons.wikimedia.org/wiki/File:React-icon.svg](https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=1080&q=75)" height="40" alt="numpy logo"  />
+  <img src="https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=1080&q=75" height="40" alt="numpy logo"  />
 </div>
 
 ###
