@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🌱 Currently diving into Data Science with Python, Pandas, Numpy and Matplotlib.<br>📫 How to reach me: melisadindarrr@gmail.com</p>
+<p align="left">🌱 Currently developing mobile applications using React Native..<br>📫 How to reach me: melisadindarrr@gmail.com</p>
 
 ###
 
@@ -55,6 +55,8 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+    <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iquest.cz%2Fen%2Ftechnologies%2Freact-native&psig=AOvVaw2kjNP6FHVeD1gAPMIHWFEf&ust=1769012048507000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD4yMjBmpIDFQAAAAAdAAAAABAE)" height="40" alt="numpy logo"  />
 </div>
 
 ###
